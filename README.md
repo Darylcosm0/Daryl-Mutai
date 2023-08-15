@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm DARYL MUTAI</h1>
 <h3 align="center">Seasoned full-stack developer with a robust proficiency in crafting scalable and intuitive web applications.</h3>
 
-![Daryl Mutai](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)
-
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Daryl Mutai" width="300" style="border-radius: 50%;">
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
